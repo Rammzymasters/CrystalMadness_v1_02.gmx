@@ -117,6 +117,7 @@
     <object>objects\obj_level_editor_controller</object>
     <object>objects\obj_editor_grid</object>
     <object>objects\obj_editor_target</object>
+    <object>objects\obj_upload_sprites</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_splash</room>
